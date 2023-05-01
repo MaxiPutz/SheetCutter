@@ -1,6 +1,7 @@
 # SheetCutter
 Sheet Cutter is a Flutter app that allows you to edit images natively using the C++ OpenCV Library. The app is available online and on Linux, and includes its own web server for easy sharing of edited files over a hotspot.
 - ![output](https://user-images.githubusercontent.com/48091139/235527158-8db5cca7-0040-4910-a65f-38d40921772c.gif)
+![output2](https://user-images.githubusercontent.com/48091139/235527458-8b5ac006-28cb-4a15-a4d2-fc4e90ecfe00.gif)
 
 # Features
 - Upload images to the app's UI and edit them using OpenCV Library.
@@ -17,9 +18,6 @@ To get started with Sheet Cutter, simply visit our website and start using the a
 
 # Demo
 You can see a demo of Sheet Cutter on our website at https://server-ooxa7yxd6a-lm.a.run.app/#/.
-
-Contributing
-We welcome contributions from developers of all levels of experience. To contribute to Sheet Cutter, simply fork the repository, make your changes, and submit a pull request. We'll review your changes and merge them into the app if they meet our quality standards.
 
 # Licnse
 Sheet Cutter is licensed under the MIT License. Feel free to use and modify the app as you see fit.
