@@ -1,7 +1,8 @@
 # SheetCutter
 Sheet Cutter is a Flutter app that allows you to edit images natively using the C++ OpenCV Library. The app is available online and on Linux, and includes its own web server for easy sharing of edited files over a hotspot.
 - ![output](https://user-images.githubusercontent.com/48091139/235527158-8db5cca7-0040-4910-a65f-38d40921772c.gif)
-![output2](https://user-images.githubusercontent.com/48091139/235527823-b2d19c82-b7e8-4dcf-9352-2c2ea0cdeffa.gif)
+![output2](https://user-images.githubusercontent.com/48091139/235528923-f4d8eaf9-5834-4630-adc5-2526b50b4855.gif)
+
 
 
 # Features
