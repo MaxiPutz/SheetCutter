@@ -12,10 +12,23 @@ Sheet Cutter is a Flutter app that allows you to edit images natively using the 
 
 # Getting Started
 To get started with Sheet Cutter, simply visit our website and start using the app right away! Alternatively, you can run the app on Linux by following these steps:
+## Method 1: Run on Linux
+1. Clone the repository to your local machine.
+2.Install Flutter and the OpenCV Library.
+3. Run the app using the Flutter command-line interface.
+## Method 2: Run on Docker
+Clone the repository to your local machine.
 
-- Clone the repository to your local machine.
- -Install Flutter and the OpenCV Library.
-- Run the app using the Flutter command-line interface.
+1. Install Docker.
+
+2. Build the Docker image using the following command:
+```
+docker build -t sheet-cutter .
+```
+4.
+```
+docker run -p 8080:8080 sheet-cutter
+```
 
 # Demo
 You can see a demo of Sheet Cutter on our website at https://server-ooxa7yxd6a-lm.a.run.app/#/.
