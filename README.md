@@ -29,7 +29,7 @@ docker build -t sheet-cutter .
 ```
 docker run -p 8080:8080 sheet-cutter
 ```
-
+This will start the Sheet Cutter web server on port 8080 of your local machine.
 # Demo
 You can see a demo of Sheet Cutter on our website at https://server-ooxa7yxd6a-lm.a.run.app/#/.
 
